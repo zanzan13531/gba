@@ -1,7 +1,9 @@
-# GBA Games Page:
+clone this repository
 
-https://playnintendo.github.io/gba
+go to https://taisel.github.io/IodineGBA/
 
-# GBA Emulator Core Used:
+under file -> bios, put in the gba_bios.bin file in the binaries folder
 
-https://github.com/taisel/IodineGBA
+under game, pick a game
+
+saves need to be done in game and in the iodine interface both i think, i never really tested it
